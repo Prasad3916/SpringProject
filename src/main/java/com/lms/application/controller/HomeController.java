@@ -8,6 +8,6 @@ public class HomeController {
 
 	@GetMapping("/")
 	public String greet() {
-		return "<a href=\"https://stunning-gingersnap-e741c3.netlify.app\">click here </a>";
+		return "<a href=\"https://golden-starburst-940428.netlify.app\">click here </a>";
 	}
 }
