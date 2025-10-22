@@ -8,6 +8,6 @@ public class HomeController {
 
 	@GetMapping("/")
 	public String greet() {
-		return "welcome to my application";
+		return "<a href="https://sprightly-macaron-a90af8.netlify.app/">click here </a>";
 	}
 }
