@@ -9,7 +9,7 @@ public class HomeController {
 	@GetMapping("/")
 	public String greet() {
 		return "<script>\r\n"
-				+ "location.href=\"https://merry-melba-49d955.netlify.app/\"\r\n"
+				+ "location.href=\"https://serene-dasik-c975d8.netlify.app/\"\r\n"
 				+ "</script>";
 	}
 }
